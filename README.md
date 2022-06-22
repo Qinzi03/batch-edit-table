@@ -11,13 +11,16 @@ npm install batch-edit-table
 ​```
 # use
 ​```
+
 // main.js
 import batchEditTable from 'batch-edit-table'
  
 Vue.use(batchEditTable)
+
 ​```
 
 ```
+
 | 参数                 | 说明                 | 类型    | 可选值 | 默认值                  |
 | -------------------- | -------------------- | ------- | ------ | ----------------------- |
 | showIndex            | 默认展示序号         | Boolean | —      | true                    |
